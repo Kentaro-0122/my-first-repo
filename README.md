@@ -1,2 +1,2 @@
 # my-first-repo
-this is my great repo
+this is my super repo
